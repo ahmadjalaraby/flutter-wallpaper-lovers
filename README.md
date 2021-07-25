@@ -2,10 +2,10 @@
 
 A new Flutter project using unsplash api.
 
-![1](https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png){:height="700px" width="400px"}
-![2](https://user-images.githubusercontent.com/38376855/126907401-bf91d012-2774-4c0d-ab1f-86c59861e149.png){:height="700px" width="400px"}
-![3](https://user-images.githubusercontent.com/38376855/126907402-83cc8b3e-5ffe-4030-a726-0c7a7e78ef83.png){:height="700px" width="400px"}
-![4](https://user-images.githubusercontent.com/38376855/126907405-4e26f507-b710-4f54-8888-dd83d45f540b.png)
+{:height="700px" width="400px"}
+
+![1](https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png) | ![2](https://user-images.githubusercontent.com/38376855/126907401-bf91d012-2774-4c0d-ab1f-86c59861e149.png) |
+![3](https://user-images.githubusercontent.com/38376855/126907402-83cc8b3e-5ffe-4030-a726-0c7a7e78ef83.png) | ![4](https://user-images.githubusercontent.com/38376855/126907405-4e26f507-b710-4f54-8888-dd83d45f540b.png)
 ![5](https://user-images.githubusercontent.com/38376855/126907407-33861f2e-9454-49af-a5f8-7d3927fbb4a1.png)
 ![6](https://user-images.githubusercontent.com/38376855/126907411-7204a49b-9a3c-4798-985f-e18f982e7380.png)
 ![8](https://user-images.githubusercontent.com/38376855/126907413-5c100c3a-69dd-42c8-898d-5dbe4b3c89b9.png)
