@@ -10,8 +10,8 @@ class Config {
   final String appNersion = '1.0.0';
   //final String appIcon;
   //final String splashIcon;
-  final String accessKey = '5v0C2eh3dFiFZZK9B-M6W13NFg-frE67xVFFc3c0R2Q';
-  final String secretKey = 'W_rxhZtaTv7Xf-5IlAQ37Ql5m4Gn9xffd2cMZPsO9a8';
+  final String accessKey = 'Here Your Access Key';
+  final String secretKey = 'Here Your Secrect Key';
   final List<String> bottomItems = ['Home', 'Explore', 'Search', 'Favorite', 'Settings'];
   final List<Tags> tags = [
     Tags(title: 'Technology'),
