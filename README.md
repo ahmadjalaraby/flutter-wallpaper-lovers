@@ -2,6 +2,8 @@
 
 A new Flutter project using unsplash api.
 
+try to resize chrome page o view the photo responsive.
+
 ![1](https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png)
 ![2](https://user-images.githubusercontent.com/38376855/126907401-bf91d012-2774-4c0d-ab1f-86c59861e149.png {width=40px height=400px})
 ![3](https://user-images.githubusercontent.com/38376855/126907402-83cc8b3e-5ffe-4030-a726-0c7a7e78ef83.png)
