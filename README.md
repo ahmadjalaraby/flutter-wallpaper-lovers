@@ -5,7 +5,7 @@ A new Flutter project using unsplash api.
 {:height="700px" width="400px"}
 
 ![1](https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png)
-<img src="https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png" width="200" height="720">
+<img src="https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png" width="400" height="500">
 
 ![2](https://user-images.githubusercontent.com/38376855/126907401-bf91d012-2774-4c0d-ab1f-86c59861e149.png {width=40px height=400px})
 ![3](https://user-images.githubusercontent.com/38376855/126907402-83cc8b3e-5ffe-4030-a726-0c7a7e78ef83.png)
