@@ -4,8 +4,8 @@ A new Flutter project using unsplash api.
 
 {:height="700px" width="400px"}
 
-![1](https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png){:class="img-responsive"}
-![2](https://user-images.githubusercontent.com/38376855/126907401-bf91d012-2774-4c0d-ab1f-86c59861e149.png){:class="img-responsive"}
+![1](https://user-images.githubusercontent.com/38376855/126907386-7b96ab23-c815-4b13-93b5-93846911f795.png {width=40px height=400px})
+![2](https://user-images.githubusercontent.com/38376855/126907401-bf91d012-2774-4c0d-ab1f-86c59861e149.png {width=40px height=400px})
 ![3](https://user-images.githubusercontent.com/38376855/126907402-83cc8b3e-5ffe-4030-a726-0c7a7e78ef83.png)
 ![4](https://user-images.githubusercontent.com/38376855/126907405-4e26f507-b710-4f54-8888-dd83d45f540b.png)
 ![5](https://user-images.githubusercontent.com/38376855/126907407-33861f2e-9454-49af-a5f8-7d3927fbb4a1.png)
